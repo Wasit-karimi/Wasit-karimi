@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1vaTNwaXZqYWtmMnhieGdwdjI4bjcyNng0dzg2b3QxcXdta3NpbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.webp" alt="my personal profile gif" width="400px" height="350px " align="right">
 
-- 🔭 I’m currently working on **My Personal Framework**
+- 🔭 I’m currently working on **My Personal Portfolio**
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, TAILWIND CSS, REACT JS**
 
